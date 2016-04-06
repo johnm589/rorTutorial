@@ -64,7 +64,8 @@ Let's also declare index.html.erb to be our root:
 Now lets create a view index.html.erb under views so we can make sure this worked. 
 
 
-```<h1>myApp!</h1>
+```
+<h1>myApp!</h1>
 ```
 
 ##Database
